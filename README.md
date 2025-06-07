@@ -43,8 +43,6 @@ _Built with modern tools and technologies:_
 
 WorldWise is a modern travel tracking application that helps you keep track of your adventures around the world. Built with React and powered by an interactive map interface, it allows users to log cities they've visited, add personal notes, and visualize their travel history on a beautiful world map.
 
-![WorldWise Preview](public/img-1.jpg)
-
 ## Features
 
 - **Interactive World Map**: Navigate and explore the world with a beautiful interactive map
