@@ -2,9 +2,9 @@
 
 _Track your adventures around the world with an interactive map interface._
 
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/worldwise?style=flat&logo=git&logoColor=white&color=00c46a)  
-![Top Language](https://img.shields.io/github/languages/top/yourusername/worldwise?style=flat&color=00c46a)  
-![Language Count](https://img.shields.io/github/languages/count/yourusername/worldwise?style=flat&color=00c46a)
+![Last Commit](https://img.shields.io/github/last-commit/rebestx/worldwise?style=flat&logo=git&logoColor=white&color=00c46a)  
+![Top Language](https://img.shields.io/github/languages/top/rebestx/worldwise?style=flat&color=00c46a)  
+![Language Count](https://img.shields.io/github/languages/count/rebestx/worldwise?style=flat&color=00c46a)
 
 _Built with modern tools and technologies:_
 
