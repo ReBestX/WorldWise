@@ -21,7 +21,6 @@ _Built with modern tools and technologies:_
 
 - [Overview](#overview)
 - [Features](#features)
-- [Live Demo](#live-demo)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -53,10 +52,6 @@ WorldWise is a modern travel tracking application that helps you keep track of y
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Real-time Geolocation**: Find your current location with one click
 - **Wikipedia Integration**: Learn more about visited cities with direct Wikipedia links
-
-## 🚀 Live Demo
-
-[View Live Demo](#) <!-- Add your deployment URL here -->
 
 ## 🛠️ Tech Stack
 
