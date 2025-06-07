@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "4segjrx8byo",
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-05-17",
+      "notes": "worst trip ever",
+      "position": {
+        "lat": 31.535676584770957,
+        "lng": 34.4637680053711
+      }
+    },
+    {
+      "id": "eefz1kplvqt",
+      "cityName": "Dayr al Kahf",
+      "country": "Jordan",
+      "emoji": "🇯🇴",
+      "date": "2025-05-17",
+      "notes": "",
+      "position": {
+        "lat": 32.30570601389429,
+        "lng": 37.06787109375001
+      }
+    },
+    {
+      "id": "16j0rzzb9hs",
+      "cityName": "Bethlehem",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-05-19",
+      "notes": "",
+      "position": {
+        "lat": 31.594913125427418,
+        "lng": 35.22079467773438
+      }
+    }
+  ]
+}
